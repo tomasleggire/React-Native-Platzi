@@ -8,6 +8,7 @@ export default function App() {
       <Saludar name="Tomas" />
       <Saludar name="Carlos" />
       <Saludar name="Juan" />
+      <Saludar />
     </View>
   );
 }
